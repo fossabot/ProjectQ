@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTakishima%2FProjectQ.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FTakishima%2FProjectQ?ref=badge_shield)
+
 ProjectQ - An open source software framework for quantum computing
 ==================================================================
 
@@ -185,3 +187,7 @@ License
 -------
 
 ProjectQ is released under the Apache 2 license.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTakishima%2FProjectQ.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTakishima%2FProjectQ?ref=badge_large)
